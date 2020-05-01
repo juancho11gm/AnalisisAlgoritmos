@@ -1,2 +1,2 @@
-# AnalisisAlgoritmos
-Proyecto Análisis de algoritmos juego SAMEGAME java
+# Algorithm analysis
+SameGame with Java.
